@@ -5,4 +5,4 @@ Keras sequential model trained on dataset produced from https://www.gutenberg.or
 Universal Sentence Encoder to embed the text data
 
 <h3>Intended UI </h3>
-![Screenshot](https://github.com/caitlan-krasinski/next-word-predictor/blob/main/screenshot_app_ui.png)
+![Screenshot](https://raw.githubusercontent.com/caitlan-krasinski/next-word-predictor/main/screenshot_app_ui.png)
