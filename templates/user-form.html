@@ -1,0 +1,15 @@
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
+
+<body>
+  <h1>Next Word Predictor</h1>
+  <p>You took the words right out of my mouth</p>
+  <p id='author'>Author: Caitlan Krasinski</p>
+  <br>
+  <br>
+  <form method="POST">
+      <input name="text">
+      <input type="submit" value="Predict!">
+  </form>
+  <h3>{{ original }} {{ predict }}<h3>
+  <p>Predicted word: {{ predict }}<p>
+</body>

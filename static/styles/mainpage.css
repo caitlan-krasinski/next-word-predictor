@@ -1,0 +1,14 @@
+body {
+  font-family: "Gill Sans", sans-serif;
+  background-color: #cdebf9;
+  color: #3C3C8B;
+  text-align: center;
+  margin: 0 auto;
+  padding:100px;
+}
+
+#author{
+  font-size: 10px;
+}
+
+
